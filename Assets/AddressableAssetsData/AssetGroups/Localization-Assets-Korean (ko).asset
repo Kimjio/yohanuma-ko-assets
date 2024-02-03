@@ -27,6 +27,11 @@ MonoBehaviour:
     m_ReadOnly: 1
     m_SerializedLabels:
     - Locale-ko
+  - m_GUID: 2a8fd1f57f5784e0abc18836939300d8
+    m_Address: SkipStd-B-Sogang SDF
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ko
   m_ReadOnly: 1
   m_Settings: {fileID: 11400000, guid: 90cce4e73c3e948ee81aacf4a85f01aa, type: 2}
   m_SchemaSet:

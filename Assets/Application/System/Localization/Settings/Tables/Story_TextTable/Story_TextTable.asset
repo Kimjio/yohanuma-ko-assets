@@ -10,13 +10,13 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 5be51871efa6c3e4eae1703925c8f5ac, type: 3}
-  m_Name: UI_TextTable
+  m_Name: Story_TextTable
   m_EditorClassIdentifier: 
-  m_SharedTableData: {fileID: 11400000, guid: b45f37769576de8449bfff0fabd802ac, type: 2}
+  m_SharedTableData: {fileID: 11400000, guid: 891af7764ec45b741a1706919f252456, type: 2}
   m_Tables:
-  - {fileID: 11400000, guid: 158643a8b02d04f9391132ec163a4c87, type: 2}
-  - {fileID: 11400000, guid: 24eb59e1d178345f8a888526a7adb1d7, type: 2}
-  - {fileID: 11400000, guid: 39091a8155b86d44da22d5a31bc3db31, type: 2}
+  - {fileID: 11400000, guid: 9a0955982946f444e81b6b0f859523f6, type: 2}
+  - {fileID: 11400000, guid: 71c8ac9e2ead9ba469142d430d89758a, type: 2}
+  - {fileID: 11400000, guid: 0448bba5f90853d43bd2c7a9ac9813a3, type: 2}
   m_Extensions: []
   m_Group: String Table
   references:

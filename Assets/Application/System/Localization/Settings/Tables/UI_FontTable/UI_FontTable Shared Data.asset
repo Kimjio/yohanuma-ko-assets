@@ -1,0 +1,266 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: UI_FontTable Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: UI_FontTable
+  m_TableCollectionNameGuidString: f1336ba341186e14d9637ce6c1f3b000
+  m_Entries:
+  - m_Id: 45763608576
+    m_Key: Font_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6969963921408
+    m_Key: FontMat_Ability
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7112457011200
+    m_Key: FontMat_BossName
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7206115819520
+    m_Key: FontMat_Cardname
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7226210729984
+    m_Key: FontMat_CommissionDetail
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7240806907904
+    m_Key: FontMat_Cost
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7261275111424
+    m_Key: FontMat_Cutin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7286680010752
+    m_Key: FontMat_Cutin2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7308318425088
+    m_Key: FontMat_GameOver
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7344225861632
+    m_Key: FontMat_MapTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7346943770624
+    m_Key: FontMat_Name_Chika
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7348885733376
+    m_Key: FontMat_Name_Dia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7350831890432
+    m_Key: FontMat_Name_Hanamaru
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7352648024064
+    m_Key: FontMat_Name_Kanan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7477600534528
+    m_Key: FontMat_Name_Lailaps
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7481497042944
+    m_Key: FontMat_Name_Mari
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7483405451264
+    m_Key: FontMat_Name_Rico
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7485422911488
+    m_Key: FontMat_Name_Ruby
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7487566200832
+    m_Key: FontMat_Name_Yohane
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7631955116032
+    m_Key: FontMat_Name_You
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7635612549120
+    m_Key: FontMat_Outline
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7684866260992
+    m_Key: FontMat_StatusNumber
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7686816612352
+    m_Key: FontMat_TitleButton
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7688829878272
+    m_Key: FontMat_Unit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7738687569920
+    m_Key: FontMat_Win
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7761273896960
+    m_Key: FontMat_dropshadow
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7809223180288
+    m_Key: FontMat_dropshadow_white
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7859282198528
+    m_Key: FontMat_Highlight
+    m_Metadata:
+      m_Items: []
+  - m_Id: 358072514916352
+    m_Key: FontMat_Outline_Green
+    m_Metadata:
+      m_Items: []
+  - m_Id: 358227091795968
+    m_Key: FontMat_Outline_White
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1673818250231808
+    m_Key: FontMat_Default
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1919838088937472
+    m_Key: FontMat_Outline_LightBlue
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items:
+    - rid: 3086508441192103937
+    - rid: 3086508441192103939
+  m_KeyGenerator:
+    rid: 3086508441117392896
+  references:
+    version: 2
+    RefIds:
+    - rid: 3086508441117392896
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1706970307345
+    - rid: 3086508441192103937
+      type: {class: AssetTypeMetadata, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries:
+        - m_KeyId: 45763608576
+          m_TableCodes:
+          - ko
+        m_TypeString: TMPro.TMP_FontAsset, Unity.TextMeshPro, Version=0.0.0.0, Culture=neutral,
+          PublicKeyToken=null
+    - rid: 3086508441192103939
+      type: {class: AssetTypeMetadata, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries:
+        - m_KeyId: 1673818250231808
+          m_TableCodes:
+          - ko
+        - m_KeyId: 6969963921408
+          m_TableCodes:
+          - ko
+        - m_KeyId: 7112457011200
+          m_TableCodes:
+          - ko
+        - m_KeyId: 7206115819520
+          m_TableCodes:
+          - ko
+        - m_KeyId: 7226210729984
+          m_TableCodes:
+          - ko
+        - m_KeyId: 1919838088937472
+          m_TableCodes:
+          - ko
+        - m_KeyId: 358227091795968
+          m_TableCodes:
+          - ko
+        - m_KeyId: 358072514916352
+          m_TableCodes:
+          - ko
+        - m_KeyId: 7240806907904
+          m_TableCodes:
+          - ko
+        - m_KeyId: 7261275111424
+          m_TableCodes:
+          - ko
+        - m_KeyId: 7286680010752
+          m_TableCodes:
+          - ko
+        - m_KeyId: 7308318425088
+          m_TableCodes:
+          - ko
+        - m_KeyId: 7344225861632
+          m_TableCodes:
+          - ko
+        - m_KeyId: 7348885733376
+          m_TableCodes:
+          - ko
+        - m_KeyId: 7859282198528
+          m_TableCodes:
+          - ko
+        - m_KeyId: 7809223180288
+          m_TableCodes:
+          - ko
+        - m_KeyId: 7761273896960
+          m_TableCodes:
+          - ko
+        - m_KeyId: 7738687569920
+          m_TableCodes:
+          - ko
+        - m_KeyId: 7688829878272
+          m_TableCodes:
+          - ko
+        - m_KeyId: 7686816612352
+          m_TableCodes:
+          - ko
+        - m_KeyId: 7684866260992
+          m_TableCodes:
+          - ko
+        - m_KeyId: 7635612549120
+          m_TableCodes:
+          - ko
+        - m_KeyId: 7631955116032
+          m_TableCodes:
+          - ko
+        - m_KeyId: 7487566200832
+          m_TableCodes:
+          - ko
+        - m_KeyId: 7485422911488
+          m_TableCodes:
+          - ko
+        - m_KeyId: 7483405451264
+          m_TableCodes:
+          - ko
+        - m_KeyId: 7481497042944
+          m_TableCodes:
+          - ko
+        - m_KeyId: 7477600534528
+          m_TableCodes:
+          - ko
+        - m_KeyId: 7352648024064
+          m_TableCodes:
+          - ko
+        - m_KeyId: 7350831890432
+          m_TableCodes:
+          - ko
+        - m_KeyId: 7346943770624
+          m_TableCodes:
+          - ko
+        m_TypeString: UnityEngine.Material, UnityEngine.CoreModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null

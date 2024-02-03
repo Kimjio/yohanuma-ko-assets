@@ -1,1 +1,1 @@
-Assets/SkipStd-B-Sogang[[:space:]]SDF.asset filter=lfs diff=lfs merge=lfs -text
+./Assets/Application/Art/Text/SkipStd-B-Sogang[[:space:]]SDF.asset filter=lfs diff=lfs merge=lfs -text

@@ -19,1855 +19,1857 @@ MonoBehaviour:
     m_Items: []
   m_TableData:
   - m_Id: 12782990616346624
-    m_Localized: "Return"
+    m_Localized: Return
     m_Metadata:
       m_Items: []
   - m_Id: 4379950780416
-    m_Localized: "Play\u0020Game"
+    m_Localized: Play Game
     m_Metadata:
       m_Items: []
   - m_Id: 15655916474118144
-    m_Localized: "Next"
+    m_Localized: Next
     m_Metadata:
       m_Items: []
   - m_Id: 15655916520255488
-    m_Localized: "Deck"
+    m_Localized: Deck
     m_Metadata:
       m_Items: []
   - m_Id: 15655916520255489
-    m_Localized: "Cemetery"
+    m_Localized: Cemetery
     m_Metadata:
       m_Items: []
   - m_Id: 15655916520255490
-    m_Localized: "Exclude"
+    m_Localized: Exclude
     m_Metadata:
       m_Items: []
   - m_Id: 15655916520255491
-    m_Localized: "CardList"
+    m_Localized: CardList
     m_Metadata:
       m_Items: []
   - m_Id: 15655916520255492
-    m_Localized: "Card\u0020Upgrade"
+    m_Localized: Card Upgrade
     m_Metadata:
       m_Items: []
   - m_Id: 15655916520255493
-    m_Localized: "Card\u0020Select"
+    m_Localized: Card Select
     m_Metadata:
       m_Items: []
   - m_Id: 15655916520255494
-    m_Localized: "Card\u0020Remove"
+    m_Localized: Card Remove
     m_Metadata:
       m_Items: []
   - m_Id: 51155473664753668
-    m_Localized: "Success"
+    m_Localized: Success
     m_Metadata:
       m_Items: []
   - m_Id: 51155473664753669
-    m_Localized: "Failure"
+    m_Localized: Failure
     m_Metadata:
       m_Items: []
   - m_Id: 15661724855349248
-    m_Localized: "Fortune-Telling\u0020Shack\u0020Schlieren"
+    m_Localized: Fortune-Telling Shack Schlieren
     m_Metadata:
       m_Items: []
   - m_Id: 15661724855349249
-    m_Localized: "To\u0020the\u0020Mirror\u0020World"
+    m_Localized: To the Mirror World
     m_Metadata:
       m_Items: []
   - m_Id: 21778931683340288
-    m_Localized: "To\u0020Story"
+    m_Localized: To Story
     m_Metadata:
       m_Items: []
   - m_Id: 15661724855349250
-    m_Localized: "Request\u0020Log"
+    m_Localized: Request Log
     m_Metadata:
       m_Items: []
   - m_Id: 15661724855349251
-    m_Localized: "Exchange\u0020Points"
+    m_Localized: Exchange Points
     m_Metadata:
       m_Items: []
   - m_Id: 15661724855349252
-    m_Localized: "Closet"
+    m_Localized: Closet
     m_Metadata:
       m_Items: []
   - m_Id: 15661724855349253
-    m_Localized: "Challenge\u0020Record"
+    m_Localized: Challenge Record
     m_Metadata:
       m_Items: []
   - m_Id: 15661724855349254
-    m_Localized: "Settings"
+    m_Localized: Settings
     m_Metadata:
       m_Items: []
   - m_Id: 15661724855349255
-    m_Localized: "Extra\u0020Content"
+    m_Localized: Extra Content
     m_Metadata:
       m_Items: []
   - m_Id: 15661724855349257
-    m_Localized: "Closet"
+    m_Localized: Closet
     m_Metadata:
       m_Items: []
   - m_Id: 15661724855349258
-    m_Localized: "Predict\u0020Fate"
+    m_Localized: Predict Fate
     m_Metadata:
       m_Items: []
   - m_Id: 15661724855349259
-    m_Localized: "Boss\u0020Battle"
+    m_Localized: Boss Battle
     m_Metadata:
       m_Items: []
   - m_Id: 15661724855349260
-    m_Localized: "Elite\u0020Battle"
+    m_Localized: Elite Battle
     m_Metadata:
       m_Items: []
   - m_Id: 15661724855349261
-    m_Localized: "Battle"
+    m_Localized: Battle
     m_Metadata:
       m_Items: []
   - m_Id: 15661724855349262
-    m_Localized: "Event"
+    m_Localized: Event
     m_Metadata:
       m_Items: []
   - m_Id: 15661724855349264
-    m_Localized: "Shop"
+    m_Localized: Shop
     m_Metadata:
       m_Items: []
   - m_Id: 15661724855349265
-    m_Localized: "Rest"
+    m_Localized: Rest
     m_Metadata:
       m_Items: []
   - m_Id: 15661724855349266
-    m_Localized: "Treasure"
+    m_Localized: Treasure
     m_Metadata:
       m_Items: []
   - m_Id: 15661724855349267
-    m_Localized: "Player\u0027s\u0020turn"
+    m_Localized: Player's turn
     m_Metadata:
       m_Items: []
   - m_Id: 15661724855349268
-    m_Localized: "Enemy\u0027s\u0020Turn"
+    m_Localized: Enemy's Turn
     m_Metadata:
       m_Items: []
   - m_Id: 15661724855349269
-    m_Localized: "End\u0020of\u0020Turn"
+    m_Localized: End of Turn
     m_Metadata:
       m_Items: []
   - m_Id: 15661724855349270
-    m_Localized: "Rest"
+    m_Localized: Rest
     m_Metadata:
       m_Items: []
   - m_Id: 15661724855349272
-    m_Localized: "Card\u0020Upgrade"
+    m_Localized: Card Upgrade
     m_Metadata:
       m_Items: []
   - m_Id: 15661724855349274
-    m_Localized: "Skip\u0020Rest"
+    m_Localized: Skip Rest
     m_Metadata:
       m_Items: []
   - m_Id: 15661724855349256
-    m_Localized: "Exchange\u0020Points"
+    m_Localized: Exchange Points
     m_Metadata:
       m_Items: []
   - m_Id: 51155473606033408
-    m_Localized: "Reverse-Numazu"
+    m_Localized: Reverse-Numazu
     m_Metadata:
       m_Items: []
   - m_Id: 51155473664753664
-    m_Localized: "Reverse-Uchira"
+    m_Localized: Reverse-Uchira
     m_Metadata:
       m_Items: []
   - m_Id: 51155473664753665
-    m_Localized: "Reverse-Warshimer"
+    m_Localized: Reverse-Warshimer
     m_Metadata:
       m_Items: []
   - m_Id: 51155473664753666
-    m_Localized: "The\u0020Depths"
+    m_Localized: The Depths
     m_Metadata:
       m_Items: []
   - m_Id: 55864270536167466
-    m_Localized: "Card\u0020Index"
+    m_Localized: Card Index
     m_Metadata:
       m_Items: []
   - m_Id: 55864270536167467
-    m_Localized: "Charm\u0020Index"
+    m_Localized: Charm Index
     m_Metadata:
       m_Items: []
   - m_Id: 55864270536167468
-    m_Localized: "Character\u0020Index"
+    m_Localized: Character Index
     m_Metadata:
       m_Items: []
   - m_Id: 55864270536167469
-    m_Localized: "Story"
+    m_Localized: Story
     m_Metadata:
       m_Items: []
   - m_Id: 55864270536167470
-    m_Localized: "Play\u0020Record"
+    m_Localized: Play Record
     m_Metadata:
       m_Items: []
   - m_Id: 55864270506807296
-    m_Localized: "Difficulty\u0020Select"
+    m_Localized: Difficulty Select
     m_Metadata:
       m_Items: []
   - m_Id: 55864270536167424
-    m_Localized: "No\u0020additional\u0020charms"
+    m_Localized: No additional charms
     m_Metadata:
       m_Items: []
   - m_Id: 55864270536167425
-    m_Localized: "Additional\u0020charms"
+    m_Localized: Additional charms
     m_Metadata:
       m_Items: []
   - m_Id: 55864270536167426
-    m_Localized: "*In\u0020EASY/VERY\u0020EASY\u0020modes\u002c\u0020you\u0020may\u0020be\u0020unable\u0020to\u0020complete\u0020some\u0020requests."
+    m_Localized: '*In EASY/VERY EASY modes, you may be unable to complete some requests.'
     m_Metadata:
       m_Items: []
   - m_Id: 55864270536167427
-    m_Localized: "balance"
+    m_Localized: balance
     m_Metadata:
       m_Items: []
   - m_Id: 55864270536167428
-    m_Localized: "Power"
+    m_Localized: Power
     m_Metadata:
       m_Items: []
   - m_Id: 55864270536167429
-    m_Localized: "Request\u0020Log"
+    m_Localized: Request Log
     m_Metadata:
       m_Items: []
   - m_Id: 55864270536167430
-    m_Localized: "Request"
+    m_Localized: Request
     m_Metadata:
       m_Items: []
   - m_Id: 55864270536167431
-    m_Localized: "Achievement\u0020Conditions"
+    m_Localized: Achievement Conditions
     m_Metadata:
       m_Items: []
   - m_Id: 55864270536167432
-    m_Localized: "Reward"
+    m_Localized: Reward
     m_Metadata:
       m_Items: []
   - m_Id: 55864270536167433
-    m_Localized: "Progressive\u0020request"
+    m_Localized: Progressive request
     m_Metadata:
       m_Items: []
   - m_Id: 55864270536167434
-    m_Localized: "Achieved\u0020request"
+    m_Localized: Achieved request
     m_Metadata:
       m_Items: []
   - m_Id: 55864270536167435
-    m_Localized: "Requests"
+    m_Localized: Requests
     m_Metadata:
       m_Items: []
   - m_Id: 53321822010200064
-    m_Localized: "Ability\u0020Enhancement"
+    m_Localized: Ability Enhancement
     m_Metadata:
       m_Items: []
   - m_Id: 53321822035365888
-    m_Localized: "Strategy\u0020Bonus"
+    m_Localized: Strategy Bonus
     m_Metadata:
       m_Items: []
   - m_Id: 55174868203814912
-    m_Localized: "Current\u0020reputation\u0020points"
+    m_Localized: Current reputation points
     m_Metadata:
       m_Items: []
   - m_Id: 55174985447194624
-    m_Localized: "Reputation\u0020points\u0020after\u0020unlock"
+    m_Localized: Reputation points after unlock
     m_Metadata:
       m_Items: []
   - m_Id: 55180718007992320
-    m_Localized: "Exchange\u0020details"
+    m_Localized: Exchange details
     m_Metadata:
       m_Items: []
   - m_Id: 55180459106189312
-    m_Localized: "Spent\u0020reputation\u0020points"
+    m_Localized: Spent reputation points
     m_Metadata:
       m_Items: []
   - m_Id: 55180499832881152
-    m_Localized: "Number\u0020of\u0020replacements"
+    m_Localized: Number of replacements
     m_Metadata:
       m_Items: []
   - m_Id: 55308068565630976
-    m_Localized: "Starter\u0020Card"
+    m_Localized: Starter Card
     m_Metadata:
       m_Items: []
   - m_Id: 55308197045551104
-    m_Localized: "Starter\u0020Charm"
+    m_Localized: Starter Charm
     m_Metadata:
       m_Items: []
   - m_Id: 55310806905077760
-    m_Localized: "Wearing"
+    m_Localized: Wearing
     m_Metadata:
       m_Items: []
   - m_Id: 55321558969827328
-    m_Localized: "Outfit\u0020List"
+    m_Localized: Outfit List
     m_Metadata:
       m_Items: []
   - m_Id: 55864270536167436
-    m_Localized: "Character\u0020Selection"
+    m_Localized: Character Selection
     m_Metadata:
       m_Items: []
   - m_Id: 55864270536167437
-    m_Localized: "Character\u0020List"
+    m_Localized: Character List
     m_Metadata:
       m_Items: []
   - m_Id: 41997630504820736
-    m_Localized: "Select\u0020a\u0020card\u0020to\u0020throw\u0020away"
+    m_Localized: Select a card to throw away
     m_Metadata:
       m_Items: []
   - m_Id: 41997630542569472
-    m_Localized: "Select\u0020the\u0020card\u0020to\u0020fade"
+    m_Localized: Select the card to fade
     m_Metadata:
       m_Items: []
   - m_Id: 41997630542569473
-    m_Localized: "Select\u0020a\u0020card\u0020to\u0020change\u0020the\u0020cost"
+    m_Localized: Select a card to change the cost
     m_Metadata:
       m_Items: []
   - m_Id: 42012048932331520
-    m_Localized: "Select\u0020a\u0020card\u0020to\u0020move\u0020to\u0020the\u0020deck"
+    m_Localized: Select a card to move to the deck
     m_Metadata:
       m_Items: []
   - m_Id: 41997630542569474
-    m_Localized: "Select\u0020the\u0020card\u0020to\u0020be\u0020duplicated"
+    m_Localized: Select the card to be duplicated
     m_Metadata:
       m_Items: []
   - m_Id: 21778931729477633
-    m_Localized: "Treasure\u0020found\u0021"
+    m_Localized: Treasure found!
     m_Metadata:
       m_Items: []
   - m_Id: 21778931729477634
-    m_Localized: "Obtain\u0020card"
+    m_Localized: Obtain card
     m_Metadata:
       m_Items: []
   - m_Id: 21837570964107264
-    m_Localized: "Unclaimed\u0020rewards\u0020will\u0020be\u0020discarded."
+    m_Localized: Unclaimed rewards will be discarded.
     m_Metadata:
       m_Items: []
   - m_Id: 21837570993467392
-    m_Localized: "Continue"
+    m_Localized: Continue
     m_Metadata:
       m_Items: []
   - m_Id: 21837570993467393
-    m_Localized: "Magic\u0020Card"
+    m_Localized: Magic Card
     m_Metadata:
       m_Items: []
   - m_Id: 21837570993467394
-    m_Localized: "Select\u00201\u0020summon\u0020card"
+    m_Localized: Select 1 summon card
     m_Metadata:
       m_Items: []
   - m_Id: 23310795447382016
-    m_Localized: "Select\u00201\u0020charm"
+    m_Localized: Select 1 charm
     m_Metadata:
       m_Items: []
   - m_Id: 21837570993467395
-    m_Localized: "\u007b0\u007d"
+    m_Localized: '{0}'
     m_Metadata:
       m_Items: []
   - m_Id: 55184128878919680
-    m_Localized: "Select\u00201"
+    m_Localized: Select 1
     m_Metadata:
       m_Items: []
   - m_Id: 55184511936315392
-    m_Localized: "Select\u00201"
+    m_Localized: Select 1
     m_Metadata:
       m_Items: []
   - m_Id: 45039052590796800
-    m_Localized: "Look\u0020after\u0020the\u0020upgrade"
+    m_Localized: Look after the upgrade
     m_Metadata:
       m_Items: []
   - m_Id: 45039052607574016
-    m_Localized: "Look\u0020before\u0020the\u0020upgrade"
+    m_Localized: Look before the upgrade
     m_Metadata:
       m_Items: []
   - m_Id: 55182910727208960
-    m_Localized: "Product\u0020List"
+    m_Localized: Product List
     m_Metadata:
       m_Items: []
   - m_Id: 55182949042176000
-    m_Localized: "Buy"
+    m_Localized: Buy
     m_Metadata:
       m_Items: []
   - m_Id: 55183019204493312
-    m_Localized: "Exit\u0020Shop"
+    m_Localized: Exit Shop
     m_Metadata:
       m_Items: []
   - m_Id: 55511980807634944
-    m_Localized: "Card\u0020Selection\u0020Service"
+    m_Localized: Card Selection Service
     m_Metadata:
       m_Items: []
   - m_Id: 55864270536167438
-    m_Localized: "Setting"
+    m_Localized: Setting
     m_Metadata:
       m_Items: []
   - m_Id: 55864270536167439
-    m_Localized: "Language\u0020Settings"
+    m_Localized: Language Settings
     m_Metadata:
       m_Items: []
   - m_Id: 55864270536167440
-    m_Localized: "Vibration"
+    m_Localized: Vibration
     m_Metadata:
       m_Items: []
   - m_Id: 55864270536167441
-    m_Localized: "Card-Using\u0020Animation"
+    m_Localized: Card-Using Animation
     m_Metadata:
       m_Items: []
   - m_Id: 55864270536167442
-    m_Localized: "On"
+    m_Localized: On
     m_Metadata:
       m_Items: []
   - m_Id: 55864270536167443
-    m_Localized: "Off"
+    m_Localized: Off
     m_Metadata:
       m_Items: []
   - m_Id: 55864270536167444
-    m_Localized: "Skips\u0020Off"
+    m_Localized: Skips Off
     m_Metadata:
       m_Items: []
   - m_Id: 55864270536167445
-    m_Localized: "Skips\u0020On"
+    m_Localized: Skips On
     m_Metadata:
       m_Items: []
   - m_Id: 55864270536167446
-    m_Localized: "BGM\u0020Volume"
+    m_Localized: BGM Volume
     m_Metadata:
       m_Items: []
   - m_Id: 55864270536167447
-    m_Localized: "SE\u0020Volume"
+    m_Localized: SE Volume
     m_Metadata:
       m_Items: []
   - m_Id: 55864270536167448
-    m_Localized: "Voice\u0020Volume"
+    m_Localized: Voice Volume
     m_Metadata:
       m_Items: []
   - m_Id: 55864270536167449
-    m_Localized: "Switch\u0020Screen\u0020Size"
+    m_Localized: Switch Screen Size
     m_Metadata:
       m_Items: []
   - m_Id: 55864270536167450
-    m_Localized: "HD"
+    m_Localized: HD
     m_Metadata:
       m_Items: []
   - m_Id: 55864270536167451
-    m_Localized: "Full\u0020HD"
+    m_Localized: Full HD
     m_Metadata:
       m_Items: []
   - m_Id: 55864270536167452
-    m_Localized: "4K"
+    m_Localized: 4K
     m_Metadata:
       m_Items: []
   - m_Id: 55864270536167453
-    m_Localized: "Window\u0020Size"
+    m_Localized: Window Size
     m_Metadata:
       m_Items: []
   - m_Id: 55864270536167454
-    m_Localized: "Window"
+    m_Localized: Window
     m_Metadata:
       m_Items: []
   - m_Id: 55864270536167455
-    m_Localized: "Full\u0020Screen"
+    m_Localized: Full Screen
     m_Metadata:
       m_Items: []
   - m_Id: 55864270536167456
-    m_Localized: "Reset\u0020to\u0020Default"
+    m_Localized: Reset to Default
     m_Metadata:
       m_Items: []
   - m_Id: 55864270536167457
-    m_Localized: "Close\u0020the\u0020settings"
+    m_Localized: Close the settings
     m_Metadata:
       m_Items: []
   - m_Id: 55864270536167458
-    m_Localized: "License\u0020notation"
+    m_Localized: License notation
     m_Metadata:
       m_Items: []
   - m_Id: 55864270536167459
-    m_Localized: "Test"
+    m_Localized: Test
     m_Metadata:
       m_Items: []
   - m_Id: 55864270536167460
-    m_Localized: "Test"
+    m_Localized: Test
     m_Metadata:
       m_Items: []
   - m_Id: 55864270536167461
-    m_Localized: "Test"
+    m_Localized: Test
     m_Metadata:
       m_Items: []
   - m_Id: 55864270536167462
-    m_Localized: "Test"
+    m_Localized: Test
     m_Metadata:
       m_Items: []
   - m_Id: 55864270536167463
-    m_Localized: "Test"
+    m_Localized: Test
     m_Metadata:
       m_Items: []
   - m_Id: 55864270536167464
-    m_Localized: "Test"
+    m_Localized: Test
     m_Metadata:
       m_Items: []
   - m_Id: 55864270536167465
-    m_Localized: "Test"
+    m_Localized: Test
     m_Metadata:
       m_Items: []
   - m_Id: 55864270536167471
-    m_Localized: "Card\u0020Index"
+    m_Localized: Card Index
     m_Metadata:
       m_Items: []
   - m_Id: 55864270536167472
-    m_Localized: "Upgrade"
+    m_Localized: Upgrade
     m_Metadata:
       m_Items: []
   - m_Id: 55864270536167473
-    m_Localized: "Rarity"
+    m_Localized: Rarity
     m_Metadata:
       m_Items: []
   - m_Id: 55864270536167474
-    m_Localized: "Charm\u0020Index"
+    m_Localized: Charm Index
     m_Metadata:
       m_Items: []
   - m_Id: 55864270536167475
-    m_Localized: "Charm\u0020Details"
+    m_Localized: Charm Details
     m_Metadata:
       m_Items: []
   - m_Id: 55864270536167476
-    m_Localized: "Charms\u0020List"
+    m_Localized: Charms List
     m_Metadata:
       m_Items: []
   - m_Id: 55864270536167477
-    m_Localized: "Character\u0020Index"
+    m_Localized: Character Index
     m_Metadata:
       m_Items: []
   - m_Id: 55864270536167478
-    m_Localized: "Character\u0020list"
+    m_Localized: Character list
     m_Metadata:
       m_Items: []
   - m_Id: 55864270536167479
-    m_Localized: "Review\u0020Story"
+    m_Localized: Review Story
     m_Metadata:
       m_Items: []
   - m_Id: 55864270536167480
-    m_Localized: "Play\u0020Status"
+    m_Localized: Play Status
     m_Metadata:
       m_Items: []
   - m_Id: 55864270536167481
-    m_Localized: "Status"
+    m_Localized: Status
     m_Metadata:
       m_Items: []
   - m_Id: 55864270536167482
-    m_Localized: "Style"
+    m_Localized: Style
     m_Metadata:
       m_Items: []
   - m_Id: 55864270536167483
-    m_Localized: "Costume"
+    m_Localized: Costume
     m_Metadata:
       m_Items: []
   - m_Id: 55864270536167484
-    m_Localized: "Achievements"
+    m_Localized: Achievements
     m_Metadata:
       m_Items: []
   - m_Id: 55864270536167485
-    m_Localized: "Time\u0020Played"
+    m_Localized: Time Played
     m_Metadata:
       m_Items: []
   - m_Id: 55864270536167486
-    m_Localized: "Card"
+    m_Localized: Card
     m_Metadata:
       m_Items: []
   - m_Id: 55864270536167487
-    m_Localized: "Charm"
+    m_Localized: Charm
     m_Metadata:
       m_Items: []
   - m_Id: 55864270536167488
-    m_Localized: "Test"
+    m_Localized: Test
     m_Metadata:
       m_Items: []
   - m_Id: 55864270536167489
-    m_Localized: "Cleared\u0020Spaces"
+    m_Localized: Cleared Spaces
     m_Metadata:
       m_Items: []
   - m_Id: 55864270536167490
-    m_Localized: "Achievement\u0020Request"
+    m_Localized: Achievement Request
     m_Metadata:
       m_Items: []
   - m_Id: 55864270536167491
-    m_Localized: "Summon\u0020History"
+    m_Localized: Summon History
     m_Metadata:
       m_Items: []
   - m_Id: 55864270536167492
-    m_Localized: "I\u0020didn\u0027t\u0020need\u0020anyone\u0027s\u0020help."
+    m_Localized: I didn't need anyone's help.
     m_Metadata:
       m_Items: []
   - m_Id: 55864270536167493
-    m_Localized: "Resume"
+    m_Localized: Resume
     m_Metadata:
       m_Items: []
   - m_Id: 55170123753930752
-    m_Localized: "Open\u0020Chest"
+    m_Localized: Open Chest
     m_Metadata:
       m_Items: []
   - m_Id: 55162747629944832
-    m_Localized: "Card\u0020effect"
+    m_Localized: Card effect
     m_Metadata:
       m_Items: []
   - m_Id: 55163246546599936
-    m_Localized: "When\u0020Summoned"
+    m_Localized: When Summoned
     m_Metadata:
       m_Items: []
   - m_Id: 55163414260039680
-    m_Localized: "Summoned"
+    m_Localized: Summoned
     m_Metadata:
       m_Items: []
   - m_Id: 55164621271678976
-    m_Localized: "Unit\u0020Effect"
+    m_Localized: Unit Effect
     m_Metadata:
       m_Items: []
   - m_Id: 55167918997061632
-    m_Localized: "Glossary"
+    m_Localized: Glossary
     m_Metadata:
       m_Items: []
   - m_Id: 55169606810157056
-    m_Localized: "Next"
+    m_Localized: Next
     m_Metadata:
       m_Items: []
   - m_Id: 55169749420687360
-    m_Localized: "Close"
+    m_Localized: Close
     m_Metadata:
       m_Items: []
   - m_Id: 55864270536167494
-    m_Localized: "Game\u0020Over"
+    m_Localized: Game Over
     m_Metadata:
       m_Items: []
   - m_Id: 55864270536167495
-    m_Localized: "All\u0020Clear\u0021"
+    m_Localized: All Clear!
     m_Metadata:
       m_Items: []
   - m_Id: 55864270536167496
-    m_Localized: "Return\u0020to\u0020Fortune-Telling\u0020Shack"
+    m_Localized: Return to Fortune-Telling Shack
     m_Metadata:
       m_Items: []
   - m_Id: 51155473664753667
-    m_Localized: "Clear"
+    m_Localized: Clear
     m_Metadata:
       m_Items: []
   - m_Id: 55960608149856256
-    m_Localized: "Your\u0020Cards"
+    m_Localized: Your Cards
     m_Metadata:
       m_Items: []
   - m_Id: 55960608162439168
-    m_Localized: "Your\u0020Charms"
+    m_Localized: Your Charms
     m_Metadata:
       m_Items: []
   - m_Id: 55960608162439169
-    m_Localized: "Full\u0020Map"
+    m_Localized: Full Map
     m_Metadata:
       m_Items: []
   - m_Id: 55960608162439170
-    m_Localized: "Request\u0020Log"
+    m_Localized: Request Log
     m_Metadata:
       m_Items: []
   - m_Id: 55960608162439171
-    m_Localized: "Settings"
+    m_Localized: Settings
     m_Metadata:
       m_Items: []
   - m_Id: 55960608162439172
-    m_Localized: "Forfeit\u0020Challenge"
+    m_Localized: Forfeit Challenge
     m_Metadata:
       m_Items: []
   - m_Id: 55960608162439173
-    m_Localized: "Return\u0020to\u0020Fortune-Telling\u0020Shack"
+    m_Localized: Return to Fortune-Telling Shack
     m_Metadata:
       m_Items: []
   - m_Id: 21778931729477632
-    m_Localized: "Loot\u0021"
+    m_Localized: Loot!
     m_Metadata:
       m_Items: []
   - m_Id: 56302485415911424
-    m_Localized: "Cost"
+    m_Localized: Cost
     m_Metadata:
       m_Items: []
   - m_Id: 56617327595085824
-    m_Localized: "Character\u0020Change"
+    m_Localized: Character Change
     m_Metadata:
       m_Items: []
   - m_Id: 56617327599280128
-    m_Localized: "NORMAL"
+    m_Localized: NORMAL
     m_Metadata:
       m_Items: []
   - m_Id: 56617327599280129
-    m_Localized: "EASY"
+    m_Localized: EASY
     m_Metadata:
       m_Items: []
   - m_Id: 56617327599280130
-    m_Localized: "VERY\u0020EASY"
+    m_Localized: VERY EASY
     m_Metadata:
       m_Items: []
   - m_Id: 56617327599280131
-    m_Localized: "Select\u0020this\u0020mode\u0020to\u0020embark\u0020on\u0020your\u0020adventure\u0020at\u0020a\u0020normal\u0020difficulty\u0020level."
+    m_Localized: Select this mode to embark on your adventure at a normal difficulty
+      level.
     m_Metadata:
       m_Items: []
   - m_Id: 56617327599280132
-    m_Localized: "Select\u0020this\u0020mode\u0020to\u0020embark\u0020on\u0020your\u0020adventure\u0020at\u0020a\u0020slightly\u0020easier\u0020difficulty\u0020level."
+    m_Localized: Select this mode to embark on your adventure at a slightly easier
+      difficulty level.
     m_Metadata:
       m_Items: []
   - m_Id: 56617327599280133
-    m_Localized: "Select\u0020this\u0020mode\u0020if\u0020you\u0027d\u0020prefer\u0020to\u0020prioritize\u0020enjoying\u0020the\u0020story."
+    m_Localized: Select this mode if you'd prefer to prioritize enjoying the story.
     m_Metadata:
       m_Items: []
   - m_Id: 56620213301403648
-    m_Localized: "A\u0020flexible\u002c\u0020all-around\u0020play\u0020style\u0020that\u0020selects\u0020your\u0020hand\u0020according\u0020to\u0020current\u0020battle\u0020conditions."
+    m_Localized: A flexible, all-around play style that selects your hand according
+      to current battle conditions.
     m_Metadata:
       m_Items: []
   - m_Id: 56620213301403649
-    m_Localized: "A\u0020high\u0020impact\u0020play\u0020style\u0020that\u0020prioritizes\u0020combined\u0020card\u0020effects\u0020to\u0020bring\u0020out\u0020their\u0020ultimate\u0020firepower."
+    m_Localized: A high impact play style that prioritizes combined card effects
+      to bring out their ultimate firepower.
     m_Metadata:
       m_Items: []
   - m_Id: 56620213301403650
-    m_Localized: "Advance\u0020through\u0020the\u0020story\u0020to\u0020unlock."
+    m_Localized: Advance through the story to unlock.
     m_Metadata:
       m_Items: []
   - m_Id: 55168415363579904
-    m_Localized: "Decision"
+    m_Localized: Decision
     m_Metadata:
       m_Items: []
   - m_Id: 56636109235412992
-    m_Localized: "Receive\u0020rewards\u0020at\u0020once"
+    m_Localized: Receive rewards at once
     m_Metadata:
       m_Items: []
   - m_Id: 56636109239607296
-    m_Localized: "Acquired\u0020Charms"
+    m_Localized: Acquired Charms
     m_Metadata:
       m_Items: []
   - m_Id: 56977906497306624
-    m_Localized: "Song\u0020Title"
+    m_Localized: Song Title
     m_Metadata:
       m_Items: []
   - m_Id: 55175662873427968
-    m_Localized: "Test"
+    m_Localized: Test
     m_Metadata:
       m_Items: []
   - m_Id: 56977997933133824
-    m_Localized: "Title"
+    m_Localized: Title
     m_Metadata:
       m_Items: []
   - m_Id: 56978044741566464
-    m_Localized: "Fortune-Telling\u0020Shack"
+    m_Localized: Fortune-Telling Shack
     m_Metadata:
       m_Items: []
   - m_Id: 56978082892955648
-    m_Localized: "Battle"
+    m_Localized: Battle
     m_Metadata:
       m_Items: []
   - m_Id: 56978120977235968
-    m_Localized: "Boss\u0020Battle"
+    m_Localized: Boss Battle
     m_Metadata:
       m_Items: []
   - m_Id: 56978160772792320
-    m_Localized: "Recommended\u0020Settings"
+    m_Localized: Recommended Settings
     m_Metadata:
       m_Items: []
   - m_Id: 56978200065032192
-    m_Localized: "ON\u0020/\u0020OFF"
+    m_Localized: ON / OFF
     m_Metadata:
       m_Items: []
   - m_Id: 15661724855349271
-    m_Localized: "Maximum\u0020HP\u0020\u007b0\u007d\u0025recovery\u0020\u007b1\u007d\u000aHP\u0020\u0028\u007b2\u007d\u0029\u0020\u2192\u0020\u0028\u007b3\u007d\u0029"
+    m_Localized: "Maximum HP {0}%recovery {1}\nHP ({2}) \u2192 ({3})"
     m_Metadata:
       m_Items: []
   - m_Id: 15661724855349263
-    m_Localized: "Fortune-Telling"
+    m_Localized: Fortune-Telling
     m_Metadata:
       m_Items: []
   - m_Id: 56981405285040128
-    m_Localized: "Others"
+    m_Localized: Others
     m_Metadata:
       m_Items: []
   - m_Id: 56982374936821760
-    m_Localized: "Power"
+    m_Localized: Power
     m_Metadata:
       m_Items: []
   - m_Id: 56982310545866752
-    m_Localized: "Balance"
+    m_Localized: Balance
     m_Metadata:
       m_Items: []
   - m_Id: 56981472121274368
-    m_Localized: "Summon\u0020Card"
+    m_Localized: Summon Card
     m_Metadata:
       m_Items: []
   - m_Id: 56987877423267840
-    m_Localized: "Birthday"
+    m_Localized: Birthday
     m_Metadata:
       m_Items: []
   - m_Id: 56987890777931776
-    m_Localized: "Category\u003a"
+    m_Localized: 'Category:'
     m_Metadata:
       m_Items: []
   - m_Id: 56987925439660032
-    m_Localized: "cv."
+    m_Localized: cv.
     m_Metadata:
       m_Items: []
   - m_Id: 56989676544802816
-    m_Localized: "Before"
+    m_Localized: Before
     m_Metadata:
       m_Items: []
   - m_Id: 56989863577206784
-    m_Localized: "After"
+    m_Localized: After
     m_Metadata:
       m_Items: []
   - m_Id: 57008270716518400
-    m_Localized: "Receive\u0020rewards"
+    m_Localized: Receive rewards
     m_Metadata:
       m_Items: []
   - m_Id: 57008400035299328
-    m_Localized: "I\u0020can\u0027t\u0020receive\u0020it\u0020now"
+    m_Localized: I can't receive it now
     m_Metadata:
       m_Items: []
   - m_Id: 57016195828760576
-    m_Localized: "Select\u0020Space"
+    m_Localized: Select Space
     m_Metadata:
       m_Items: []
   - m_Id: 57018232817664000
-    m_Localized: "Reputation\u0020point"
+    m_Localized: Reputation point
     m_Metadata:
       m_Items: []
   - m_Id: 57022547242336256
-    m_Localized: "Auto-End\u0020Turn"
+    m_Localized: Auto-End Turn
     m_Metadata:
       m_Items: []
   - m_Id: 57024917728739328
-    m_Localized: "Song\u0020set\u0020playback"
+    m_Localized: Song set playback
     m_Metadata:
       m_Items: []
   - m_Id: 57024941283950592
-    m_Localized: "ON"
+    m_Localized: ON
     m_Metadata:
       m_Items: []
   - m_Id: 57024959566921728
-    m_Localized: "OFF"
+    m_Localized: OFF
     m_Metadata:
       m_Items: []
   - m_Id: 57025112877121536
-    m_Localized: "Music\u0020set\u0020playlist"
+    m_Localized: Music set playlist
     m_Metadata:
       m_Items: []
   - m_Id: 57025136604299264
-    m_Localized: "Selection\u0020of\u0020songs"
+    m_Localized: Selection of songs
     m_Metadata:
       m_Items: []
   - m_Id: 15661724855349273
-    m_Localized: "The\u0020card\u0020is\u0020\u007b0\u007d\u000aUpgrade"
+    m_Localized: 'The card is {0}
+
+      Upgrade'
     m_Metadata:
       m_Items: []
   - m_Id: 57347119118278656
-    m_Localized: "Deck\u0020confirmation"
+    m_Localized: Deck confirmation
     m_Metadata:
       m_Items: []
   - m_Id: 57347119122472960
-    m_Localized: "Complete\u0020confirmation"
+    m_Localized: Complete confirmation
     m_Metadata:
       m_Items: []
   - m_Id: 57347119122472961
-    m_Localized: "Play\u0020Record"
+    m_Localized: Play Record
     m_Metadata:
       m_Items: []
   - m_Id: 57348855648215040
-    m_Localized: "Saving..."
+    m_Localized: Saving...
     m_Metadata:
       m_Items: []
   - m_Id: 57348855648215041
-    m_Localized: "Loading..."
+    m_Localized: Loading...
     m_Metadata:
       m_Items: []
   - m_Id: 58408932008345600
-    m_Localized: "Difficulty\u0020level"
+    m_Localized: Difficulty level
     m_Metadata:
       m_Items: []
   - m_Id: 58462391438925824
-    m_Localized: "Acquire\u0020charms."
+    m_Localized: Acquire charms.
     m_Metadata:
       m_Items: []
   - m_Id: 58462391455703040
-    m_Localized: "Complete\u0020requests\u0020and\u0020exchange\u0020points\u0020to\u0020unlock."
+    m_Localized: Complete requests and exchange points to unlock.
     m_Metadata:
       m_Items: []
   - m_Id: 58464251038130176
-    m_Localized: "WQHD"
+    m_Localized: WQHD
     m_Metadata:
       m_Items: []
   - m_Id: 60907295225823232
-    m_Localized: "Yohane"
+    m_Localized: Yohane
     m_Metadata:
       m_Items: []
   - m_Id: 60907295255183360
-    m_Localized: "Aika\u0020Kobayashi"
+    m_Localized: Aika Kobayashi
     m_Metadata:
       m_Items: []
   - m_Id: 60907295255183361
-    m_Localized: "Hanamaru"
+    m_Localized: Hanamaru
     m_Metadata:
       m_Items: []
   - m_Id: 60907295255183362
-    m_Localized: "Kanako\u0020Takatsuki"
+    m_Localized: Kanako Takatsuki
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508480
-    m_Localized: "Dia"
+    m_Localized: Dia
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508481
-    m_Localized: "Arisa\u0020Komiya"
+    m_Localized: Arisa Komiya
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508482
-    m_Localized: "Ruby"
+    m_Localized: Ruby
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508483
-    m_Localized: "Ai\u0020Furihata"
+    m_Localized: Ai Furihata
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508484
-    m_Localized: "Chika"
+    m_Localized: Chika
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508485
-    m_Localized: "Inami\u0020Anju"
+    m_Localized: Inami Anju
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508486
-    m_Localized: "You"
+    m_Localized: You
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508487
-    m_Localized: "Shuka\u0020Saito"
+    m_Localized: Shuka Saito
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508488
-    m_Localized: "Kanan"
+    m_Localized: Kanan
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508489
-    m_Localized: "Nanaka\u0020Suwa"
+    m_Localized: Nanaka Suwa
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508490
-    m_Localized: "Riko"
+    m_Localized: Riko
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508491
-    m_Localized: "Rikako\u0020Aida"
+    m_Localized: Rikako Aida
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508492
-    m_Localized: "Mari"
+    m_Localized: Mari
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508493
-    m_Localized: "Aina\u0020Suzuki"
+    m_Localized: Aina Suzuki
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508494
-    m_Localized: "Lailaps"
+    m_Localized: Lailaps
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508495
-    m_Localized: "Youko\u0020Hikasa"
+    m_Localized: Youko Hikasa
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508496
-    m_Localized: "Director"
+    m_Localized: Director
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508497
-    m_Localized: "Daigo\u0020Iwashima"
+    m_Localized: Daigo Iwashima
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508498
-    m_Localized: "Story"
+    m_Localized: Story
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508499
-    m_Localized: "Yasuhiro\u0020Nogami"
+    m_Localized: Yasuhiro Nogami
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508500
-    m_Localized: "Art\u0020Director"
+    m_Localized: Art Director
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508501
-    m_Localized: "Katsuya\u0020Kitagawa"
+    m_Localized: Katsuya Kitagawa
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508503
-    m_Localized: "Ichiro\u0020Shibata"
+    m_Localized: Ichiro Shibata
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508505
-    m_Localized: "Junji\u0020Okubo"
+    m_Localized: Junji Okubo
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508506
-    m_Localized: "Sound\u0020Engineer"
+    m_Localized: Sound Engineer
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508507
-    m_Localized: "Hideaki\u0020Kuroda"
+    m_Localized: Hideaki Kuroda
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508509
-    m_Localized: "Fumitaka\u0020Amemiya"
+    m_Localized: Fumitaka Amemiya
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508510
-    m_Localized: "Project\u0020Manager"
+    m_Localized: Project Manager
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508511
-    m_Localized: "Satoru\u0020Tsushima"
+    m_Localized: Satoru Tsushima
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508512
-    m_Localized: "Lead\u0020Programmer"
+    m_Localized: Lead Programmer
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508513
-    m_Localized: "Kazuki\u0020Murakami"
+    m_Localized: Kazuki Murakami
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508514
-    m_Localized: "Programmer"
+    m_Localized: Programmer
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508515
-    m_Localized: "Yozo\u0020Hayashi"
+    m_Localized: Yozo Hayashi
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508517
-    m_Localized: "Jun\u0020Maejima"
+    m_Localized: Jun Maejima
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508519
-    m_Localized: "Kenta\u0020Yokoyama"
+    m_Localized: Kenta Yokoyama
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508521
-    m_Localized: "Yoshiki\u0020Otake"
+    m_Localized: Yoshiki Otake
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508523
-    m_Localized: "Sora\u0020Ota"
+    m_Localized: Sora Ota
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508525
-    m_Localized: "Ryuku\u0020Uehara"
+    m_Localized: Ryuku Uehara
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508527
-    m_Localized: "Nozomi\u0020Suzuki"
+    m_Localized: Nozomi Suzuki
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508528
-    m_Localized: "Read\u00203D\u0020Artist"
+    m_Localized: Read 3D Artist
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508529
-    m_Localized: "Hiroshi\u0020Mukouyama"
+    m_Localized: Hiroshi Mukouyama
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508530
-    m_Localized: "3D\u0020Artist"
+    m_Localized: 3D Artist
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508531
-    m_Localized: "Ayano\u0020Yoshida"
+    m_Localized: Ayano Yoshida
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508533
-    m_Localized: "Masaya\u0020Ikeda"
+    m_Localized: Masaya Ikeda
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508535
-    m_Localized: "Osamu\u0020Nishinosono"
+    m_Localized: Osamu Nishinosono
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508537
-    m_Localized: "Momoko\u0020Oishi"
+    m_Localized: Momoko Oishi
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508539
-    m_Localized: "Rabi\u0020Suzuki"
+    m_Localized: Rabi Suzuki
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508541
-    m_Localized: "Yueyang\u0020Li"
+    m_Localized: Yueyang Li
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508543
-    m_Localized: "Hisao\u0020Nishimura"
+    m_Localized: Hisao Nishimura
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508545
-    m_Localized: "Nanako\u0020Yamaguchi"
+    m_Localized: Nanako Yamaguchi
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508546
-    m_Localized: "Lead\u00202D\u0020Artist"
+    m_Localized: Lead 2D Artist
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508547
-    m_Localized: "Mina\u0020Nakajima\u0020"
+    m_Localized: 'Mina Nakajima '
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508548
-    m_Localized: "2D\u0020Artist"
+    m_Localized: 2D Artist
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508549
-    m_Localized: "Megumi\u0020Inoue"
+    m_Localized: Megumi Inoue
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508551
-    m_Localized: "Asami\u0020Akagi"
+    m_Localized: Asami Akagi
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508553
-    m_Localized: "Wang\u0020Qiong"
+    m_Localized: Wang Qiong
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508555
-    m_Localized: "Leqingxiu\u0020Kang"
+    m_Localized: Leqingxiu Kang
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508557
-    m_Localized: "Xiaochi\u0020Zhang"
+    m_Localized: Xiaochi Zhang
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508559
-    m_Localized: "Haruki\u0020Kume"
+    m_Localized: Haruki Kume
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508561
-    m_Localized: "Momoko\u0020Kanada"
+    m_Localized: Momoko Kanada
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508563
-    m_Localized: "Nanako\u0020Yamaguchi"
+    m_Localized: Nanako Yamaguchi
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508565
-    m_Localized: "Nao\u0020Yamasaki"
+    m_Localized: Nao Yamasaki
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508566
-    m_Localized: "Lead\u0020Animator"
+    m_Localized: Lead Animator
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508567
-    m_Localized: "Akio\u0020Koizumi"
+    m_Localized: Akio Koizumi
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508568
-    m_Localized: "Animator"
+    m_Localized: Animator
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508569
-    m_Localized: "Shinra\u0020Yamazaki"
+    m_Localized: Shinra Yamazaki
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508571
-    m_Localized: "Kanade\u0020Mochizuki"
+    m_Localized: Kanade Mochizuki
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508573
-    m_Localized: "Naoshi\u0020Horiguchi"
+    m_Localized: Naoshi Horiguchi
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508575
-    m_Localized: "Akane\u0020Maeda"
+    m_Localized: Akane Maeda
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508576
-    m_Localized: "Read\u0020UI\u0020Artist"
+    m_Localized: Read UI Artist
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508577
-    m_Localized: "Sanae\u0020Miyasaka"
+    m_Localized: Sanae Miyasaka
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508578
-    m_Localized: "\u0020UI\u0020Artist"
+    m_Localized: ' UI Artist'
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508579
-    m_Localized: "Yueyang\u0020Li"
+    m_Localized: Yueyang Li
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508581
-    m_Localized: "Ichiro\u0020Shibata"
+    m_Localized: Ichiro Shibata
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508582
-    m_Localized: "Main\u0020Visual"
+    m_Localized: Main Visual
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508583
-    m_Localized: "Ryuichi\u0020Saito"
+    m_Localized: Ryuichi Saito
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508584
-    m_Localized: "Technical\u0020Artist"
+    m_Localized: Technical Artist
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508585
-    m_Localized: "Masaya\u0020Ikeda"
+    m_Localized: Masaya Ikeda
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508587
-    m_Localized: "Osamu\u0020Nishinosono"
+    m_Localized: Osamu Nishinosono
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508589
-    m_Localized: "Shun\u0020Sato"
+    m_Localized: Shun Sato
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508590
-    m_Localized: "Costume\u0020Design"
+    m_Localized: Costume Design
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508591
-    m_Localized: "Mina\u0020Nakajima\u0020"
+    m_Localized: 'Mina Nakajima '
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508593
-    m_Localized: "Wang\u0020Qiong"
+    m_Localized: Wang Qiong
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508595
-    m_Localized: "Momoko\u0020Kanada"
+    m_Localized: Momoko Kanada
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508597
-    m_Localized: "Xiaochi\u0020Zhang"
+    m_Localized: Xiaochi Zhang
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508599
-    m_Localized: "Nao\u0020Yamasaki"
+    m_Localized: Nao Yamasaki
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508600
-    m_Localized: "Scenario\u0020Script"
+    m_Localized: Scenario Script
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508601
-    m_Localized: "Natsumi\u0020Yamashita"
+    m_Localized: Natsumi Yamashita
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508603
-    m_Localized: "Takashi\u0020Oka"
+    m_Localized: Takashi Oka
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508605
-    m_Localized: "Ryouga\u0020inoue"
+    m_Localized: Ryouga inoue
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508607
-    m_Localized: "Naoki\u0020Fukasawa"
+    m_Localized: Naoki Fukasawa
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508608
-    m_Localized: "Lead\u0020Game\u0020Designer"
+    m_Localized: Lead Game Designer
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508609
-    m_Localized: "Yuta\u0020Hoshino"
+    m_Localized: Yuta Hoshino
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508610
-    m_Localized: "Game\u0020Designer"
+    m_Localized: Game Designer
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508611
-    m_Localized: "Rei\u0020Kusumoto"
+    m_Localized: Rei Kusumoto
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508613
-    m_Localized: "Yohei\u0020Odano"
+    m_Localized: Yohei Odano
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508615
-    m_Localized: "Ryota\u0020Okuno"
+    m_Localized: Ryota Okuno
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508617
-    m_Localized: "Ryouga\u0020inoue"
+    m_Localized: Ryouga inoue
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508619
-    m_Localized: "Shin\u0020Mamiduka"
+    m_Localized: Shin Mamiduka
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508621
-    m_Localized: "Nana\u0020Ueda"
+    m_Localized: Nana Ueda
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508622
-    m_Localized: "Technical\u0020Support"
+    m_Localized: Technical Support
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508623
-    m_Localized: "Masanori\u0020Okayasu"
+    m_Localized: Masanori Okayasu
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508625
-    m_Localized: "Takayuki\u0020Haga"
+    m_Localized: Takayuki Haga
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508627
-    m_Localized: "Shingo\u0020Tsujita"
+    m_Localized: Shingo Tsujita
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508628
-    m_Localized: "Sales\u0020Manager"
+    m_Localized: Sales Manager
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508629
-    m_Localized: "Masashi\u0020Saito"
+    m_Localized: Masashi Saito
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508630
-    m_Localized: "Publicity\u0020Design"
+    m_Localized: Publicity Design
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508631
-    m_Localized: "Rina\u0020Takeuchi"
+    m_Localized: Rina Takeuchi
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508632
-    m_Localized: "Public\u0020Relations\u0020Cooperation"
+    m_Localized: Public Relations Cooperation
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508633
-    m_Localized: "Takashi\u0020Oka"
+    m_Localized: Takashi Oka
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508634
-    m_Localized: "Video\u0020game\u0020unit\u0020MD2\u0020Team"
+    m_Localized: Video game unit MD2 Team
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508635
-    m_Localized: "Masao\u0020Igaki\uff08Happinet\u0020Corporation\uff09"
+    m_Localized: "Masao Igaki\uFF08Happinet Corporation\uFF09"
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508637
-    m_Localized: "Hiroki\u0020Takeuchi\uff08Happinet\u0020Corporation\uff09"
+    m_Localized: "Hiroki Takeuchi\uFF08Happinet Corporation\uFF09"
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508638
-    m_Localized: "Video\u0020game\u0020unit\u00203\u0020Team\u0020Leaders"
+    m_Localized: Video game unit 3 Team Leaders
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508639
-    m_Localized: "Kazuki\u0020Takahashi\uff08Happinet\u0020Corporation\uff09"
+    m_Localized: "Kazuki Takahashi\uFF08Happinet Corporation\uFF09"
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508640
-    m_Localized: "Video\u0020game\u0020unit\u00203\u0020Teams"
+    m_Localized: Video game unit 3 Teams
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508641
-    m_Localized: "Takanori\u0020Baba\uff08Happinet\u0020Corporation\uff09"
+    m_Localized: "Takanori Baba\uFF08Happinet Corporation\uFF09"
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508643
-    m_Localized: "Naomi\u0020Ise\uff08Happinet\u0020Corporation\uff09"
+    m_Localized: "Naomi Ise\uFF08Happinet Corporation\uFF09"
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508645
-    m_Localized: "Shin-ichi\u0020Koike\uff08Happinet\u0020Corporation\uff09"
+    m_Localized: "Shin-ichi Koike\uFF08Happinet Corporation\uFF09"
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508647
-    m_Localized: "Kana\u0020Murakami\uff08Happinet\u0020Corporation\uff09"
+    m_Localized: "Kana Murakami\uFF08Happinet Corporation\uFF09"
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508649
-    m_Localized: "Miu\u0020Araki\uff08Happinet\u0020Corporation\uff09"
+    m_Localized: "Miu Araki\uFF08Happinet Corporation\uFF09"
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508651
-    m_Localized: "Honoka\u0020Ohara\uff08Happinet\u0020Corporation\uff09"
+    m_Localized: "Honoka Ohara\uFF08Happinet Corporation\uFF09"
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508653
-    m_Localized: "Atsushi\u0020Shimizu\uff08Happinet\u0020Corporation\uff09"
+    m_Localized: "Atsushi Shimizu\uFF08Happinet Corporation\uFF09"
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508654
-    m_Localized: "Video\u0020game\u0020unit\u0020MD2\u0020Team\u0020Leader"
+    m_Localized: Video game unit MD2 Team Leader
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508655
-    m_Localized: "Ryosuke\u0020Sakai\uff08Happinet\u0020Corporation\uff09"
+    m_Localized: "Ryosuke Sakai\uFF08Happinet Corporation\uFF09"
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508656
-    m_Localized: "Supervision"
+    m_Localized: Supervision
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508657
-    m_Localized: "Mitsuhiro\u0020Yonekawa\uff08BANDAI\u0020NAMCO\u0020FILM\u0020WORKS\u0020Inc.\uff09"
+    m_Localized: "Mitsuhiro Yonekawa\uFF08BANDAI NAMCO FILM WORKS Inc.\uFF09"
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508658
-    m_Localized: "Character\u0020Design\u0020Draft"
+    m_Localized: Character Design Draft
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508659
-    m_Localized: "Taira\u0020Akitsu\uff08BANDAI\u0020NAMCO\u0020FILM\u0020WORKS\u0020Inc.\uff09"
+    m_Localized: "Taira Akitsu\uFF08BANDAI NAMCO FILM WORKS Inc.\uFF09"
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508660
-    m_Localized: "Character\u0020Design"
+    m_Localized: Character Design
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508661
-    m_Localized: "Yumiko\u0020Yamamoto\uff08BANDAI\u0020NAMCO\u0020FILM\u0020WORKS\u0020Inc.\uff09"
+    m_Localized: "Yumiko Yamamoto\uFF08BANDAI NAMCO FILM WORKS Inc.\uFF09"
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508662
-    m_Localized: "Title\u0020Logo\u0020Design"
+    m_Localized: Title Logo Design
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508663
-    m_Localized: "Miyuki\u0020Kojima\uff08BANDAI\u0020NAMCO\u0020FILM\u0020WORKS\u0020Inc.\uff09"
+    m_Localized: "Miyuki Kojima\uFF08BANDAI NAMCO FILM WORKS Inc.\uFF09"
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508664
-    m_Localized: "Producer"
+    m_Localized: Producer
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508665
-    m_Localized: "Jun\u0020Miyagi"
+    m_Localized: Jun Miyagi
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508666
-    m_Localized: "Executive\u0020Producer"
+    m_Localized: Executive Producer
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508667
-    m_Localized: "Kazunori\u0020Nanji"
+    m_Localized: Kazunori Nanji
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508669
-    m_Localized: "\u00a92024\u0020BeXide\u0020Inc."
+    m_Localized: "\xA92024 BeXide Inc."
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508670
-    m_Localized: "Cast"
+    m_Localized: Cast
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508671
-    m_Localized: "Staff"
+    m_Localized: Staff
     m_Metadata:
       m_Items: []
   - m_Id: 60966168053825536
-    m_Localized: "The\u0020End"
+    m_Localized: The End
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508502
-    m_Localized: "\u0020"
+    m_Localized: ' '
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508504
-    m_Localized: "\u0020"
+    m_Localized: ' '
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508508
-    m_Localized: "\u0020"
+    m_Localized: ' '
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508516
-    m_Localized: "\u0020"
+    m_Localized: ' '
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508518
-    m_Localized: "\u0020"
+    m_Localized: ' '
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508520
-    m_Localized: "\u0020"
+    m_Localized: ' '
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508522
-    m_Localized: "\u0020"
+    m_Localized: ' '
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508524
-    m_Localized: "\u0020"
+    m_Localized: ' '
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508526
-    m_Localized: "\u0020"
+    m_Localized: ' '
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508532
-    m_Localized: "\u0020"
+    m_Localized: ' '
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508534
-    m_Localized: "\u0020"
+    m_Localized: ' '
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508536
-    m_Localized: "\u0020"
+    m_Localized: ' '
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508538
-    m_Localized: "\u0020"
+    m_Localized: ' '
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508540
-    m_Localized: "\u0020"
+    m_Localized: ' '
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508542
-    m_Localized: "\u0020"
+    m_Localized: ' '
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508544
-    m_Localized: "\u0020"
+    m_Localized: ' '
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508550
-    m_Localized: "\u0020"
+    m_Localized: ' '
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508552
-    m_Localized: "\u0020"
+    m_Localized: ' '
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508554
-    m_Localized: "\u0020"
+    m_Localized: ' '
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508556
-    m_Localized: "\u0020"
+    m_Localized: ' '
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508558
-    m_Localized: "\u0020"
+    m_Localized: ' '
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508560
-    m_Localized: "\u0020"
+    m_Localized: ' '
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508562
-    m_Localized: "\u0020"
+    m_Localized: ' '
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508564
-    m_Localized: "\u0020"
+    m_Localized: ' '
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508570
-    m_Localized: "\u0020"
+    m_Localized: ' '
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508572
-    m_Localized: "\u0020"
+    m_Localized: ' '
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508574
-    m_Localized: "\u0020"
+    m_Localized: ' '
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508580
-    m_Localized: "\u0020"
+    m_Localized: ' '
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508586
-    m_Localized: "\u0020"
+    m_Localized: ' '
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508588
-    m_Localized: "\u0020"
+    m_Localized: ' '
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508592
-    m_Localized: "\u0020"
+    m_Localized: ' '
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508594
-    m_Localized: "\u0020"
+    m_Localized: ' '
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508596
-    m_Localized: "\u0020"
+    m_Localized: ' '
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508598
-    m_Localized: "\u0020"
+    m_Localized: ' '
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508602
-    m_Localized: "\u0020"
+    m_Localized: ' '
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508604
-    m_Localized: "\u0020"
+    m_Localized: ' '
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508606
-    m_Localized: "\u0020"
+    m_Localized: ' '
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508612
-    m_Localized: "\u0020"
+    m_Localized: ' '
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508614
-    m_Localized: "\u0020"
+    m_Localized: ' '
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508616
-    m_Localized: "\u0020"
+    m_Localized: ' '
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508618
-    m_Localized: "\u0020"
+    m_Localized: ' '
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508620
-    m_Localized: "\u0020"
+    m_Localized: ' '
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508624
-    m_Localized: "\u0020"
+    m_Localized: ' '
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508626
-    m_Localized: "\u0020"
+    m_Localized: ' '
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508636
-    m_Localized: "\u0020"
+    m_Localized: ' '
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508642
-    m_Localized: "\u0020"
+    m_Localized: ' '
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508644
-    m_Localized: "\u0020"
+    m_Localized: ' '
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508646
-    m_Localized: "\u0020"
+    m_Localized: ' '
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508648
-    m_Localized: "\u0020"
+    m_Localized: ' '
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508650
-    m_Localized: "\u0020"
+    m_Localized: ' '
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508652
-    m_Localized: "\u0020"
+    m_Localized: ' '
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508668
-    m_Localized: "Production\u30fbCopyright"
+    m_Localized: "Production\u30FBCopyright"
     m_Metadata:
       m_Items: []
   - m_Id: 61347579512229888
-    m_Localized: "Mouse\u0020Snap"
+    m_Localized: Mouse Snap
     m_Metadata:
       m_Items: []
   - m_Id: 63425201163329536
-    m_Localized: "Trial\u0020version"
+    m_Localized: Trial version
     m_Metadata:
       m_Items: []
   - m_Id: 65229700852998144
-    m_Localized: "Test"
-    m_Metadata:
-      m_Items: []
-  - m_Id: 65577466829737984
-    m_Localized: "Test"
+    m_Localized: Test
     m_Metadata:
       m_Items: []
   - m_Id: 65578904997859328
-    m_Localized: "\u007b0\u007d\u0020Turn\u0020remaining"
+    m_Localized: '{0} Turn remaining'
     m_Metadata:
       m_Items: []
   - m_Id: 66406576473235456
-    m_Localized: "\u0028Cannot\u0020Skip\u0029"
+    m_Localized: (Cannot Skip)
     m_Metadata:
       m_Items: []
   - m_Id: 66406576481624064
-    m_Localized: "Cancel"
+    m_Localized: Cancel
     m_Metadata:
       m_Items: []
   - m_Id: 66411571629252608
-    m_Localized: "Next"
+    m_Localized: Next
     m_Metadata:
       m_Items: []
   - m_Id: 66418823027220480
-    m_Localized: "Unit\u0020Effect\u0020activates\u0021"
+    m_Localized: Unit Effect activates!
     m_Metadata:
       m_Items: []
   - m_Id: 68245950924668928
-    m_Localized: "Collect\u0020Rewards"
+    m_Localized: Collect Rewards
     m_Metadata:
       m_Items: []
   - m_Id: 68509441832140800
-    m_Localized: "Miyuki\u0020Kojima\uff08BANDAI\u0020NAMCO\u0020FILM\u0020WORKS\u0020Inc.\uff09"
+    m_Localized: "Miyuki Kojima\uFF08BANDAI NAMCO FILM WORKS Inc.\uFF09"
     m_Metadata:
       m_Items: []
   - m_Id: 68509441832140801
-    m_Localized: "QA"
+    m_Localized: QA
     m_Metadata:
       m_Items: []
   - m_Id: 68509441832140802
-    m_Localized: "Yasuyuki\u0020Tobari\uff08DOKIDOKI\u0020GROOVEWORKS\u002c\u0020Inc\uff09"
+    m_Localized: "Yasuyuki Tobari\uFF08DOKIDOKI GROOVEWORKS, Inc\uFF09"
     m_Metadata:
       m_Items: []
   - m_Id: 68509441832140803
-    m_Localized: "\u0020"
+    m_Localized: ' '
     m_Metadata:
       m_Items: []
   - m_Id: 68509441832140804
-    m_Localized: "Meguru\u0020Miyazaki\uff08DOKIDOKI\u0020GROOVEWORKS\u002c\u0020Inc\uff09"
+    m_Localized: "Meguru Miyazaki\uFF08DOKIDOKI GROOVEWORKS, Inc\uFF09"
     m_Metadata:
       m_Items: []
   - m_Id: 68509441832140805
-    m_Localized: "\u0020"
+    m_Localized: ' '
     m_Metadata:
       m_Items: []
   - m_Id: 68509441832140806
-    m_Localized: "Takashi\u0020Nishiguchi\uff08DOKIDOKI\u0020GROOVEWORKS\u002c\u0020Inc\uff09"
+    m_Localized: "Takashi Nishiguchi\uFF08DOKIDOKI GROOVEWORKS, Inc\uFF09"
     m_Metadata:
       m_Items: []
   - m_Id: 68509441832140807
-    m_Localized: "\u0020"
+    m_Localized: ' '
     m_Metadata:
       m_Items: []
   - m_Id: 68509441832140808
-    m_Localized: "Naoki\u0020Kawahara\uff08DOKIDOKI\u0020GROOVEWORKS\u002c\u0020Inc\uff09"
+    m_Localized: "Naoki Kawahara\uFF08DOKIDOKI GROOVEWORKS, Inc\uFF09"
     m_Metadata:
       m_Items: []
   - m_Id: 68509441832140809
-    m_Localized: "\u0020"
+    m_Localized: ' '
     m_Metadata:
       m_Items: []
   - m_Id: 68509441832140810
-    m_Localized: "Hiroyuki\u0020Sakamoto\uff08DOKIDOKI\u0020GROOVEWORKS\u002c\u0020Inc\uff09"
+    m_Localized: "Hiroyuki Sakamoto\uFF08DOKIDOKI GROOVEWORKS, Inc\uFF09"
     m_Metadata:
       m_Items: []
   - m_Id: 68509441832140811
-    m_Localized: "\u0020"
+    m_Localized: ' '
     m_Metadata:
       m_Items: []
   - m_Id: 68509441832140812
-    m_Localized: "Tatsuya\u0020Shintani\uff08DOKIDOKI\u0020GROOVEWORKS\u002c\u0020Inc\uff09"
+    m_Localized: "Tatsuya Shintani\uFF08DOKIDOKI GROOVEWORKS, Inc\uFF09"
     m_Metadata:
       m_Items: []
   - m_Id: 68509441832140813
-    m_Localized: "\u0020"
+    m_Localized: ' '
     m_Metadata:
       m_Items: []
   - m_Id: 68509441832140814
-    m_Localized: "Yoshiki\u0020Noda\uff08DOKIDOKI\u0020GROOVEWORKS\u002c\u0020Inc\uff09"
+    m_Localized: "Yoshiki Noda\uFF08DOKIDOKI GROOVEWORKS, Inc\uFF09"
     m_Metadata:
       m_Items: []
   - m_Id: 68509441832140815
-    m_Localized: "\u0020"
+    m_Localized: ' '
     m_Metadata:
       m_Items: []
   - m_Id: 68509441832140816
-    m_Localized: "Ryo\u0020Abe"
+    m_Localized: Ryo Abe
     m_Metadata:
       m_Items: []
   - m_Id: 69968883505315840
-    m_Localized: "Translation\u0020Supervisor"
+    m_Localized: Translation Supervisor
     m_Metadata:
       m_Items: []
   - m_Id: 69968883526287360
-    m_Localized: "Yukino\u0020Takada"
+    m_Localized: Yukino Takada
     m_Metadata:
       m_Items: []
   - m_Id: 69968883526287361
-    m_Localized: "Localization\u0020Project\u0020Manager"
+    m_Localized: Localization Project Manager
     m_Metadata:
       m_Items: []
   - m_Id: 69968883526287362
-    m_Localized: "Yuko\u0020Hoshino\uff08MediBang\u0020Inc.\uff09"
+    m_Localized: "Yuko Hoshino\uFF08MediBang Inc.\uFF09"
     m_Metadata:
       m_Items: []
   - m_Id: 69968883526287363
-    m_Localized: "Traditional\u0020Chinese\u0020Localization"
+    m_Localized: Traditional Chinese Localization
     m_Metadata:
       m_Items: []
   - m_Id: 69968883526287364
-    m_Localized: "Baoyuan\u0020Ryu\uff08MediBang\u0020Inc.\uff09"
+    m_Localized: "Baoyuan Ryu\uFF08MediBang Inc.\uFF09"
     m_Metadata:
       m_Items: []
   - m_Id: 69968883526287365
-    m_Localized: "\u0020"
+    m_Localized: ' '
     m_Metadata:
       m_Items: []
   - m_Id: 69968883526287366
-    m_Localized: "Y.Y.S\uff08MediBang\u0020Inc.\uff09"
+    m_Localized: "Y.Y.S\uFF08MediBang Inc.\uFF09"
     m_Metadata:
       m_Items: []
   - m_Id: 69968883526287367
-    m_Localized: "English\u0020Localization"
+    m_Localized: English Localization
     m_Metadata:
       m_Items: []
   - m_Id: 69968883526287368
-    m_Localized: "Candace\u0020Minami\uff08MediBang\u0020Inc.\uff09"
+    m_Localized: "Candace Minami\uFF08MediBang Inc.\uFF09"
     m_Metadata:
       m_Items: []
   - m_Id: 69968883526287369
-    m_Localized: "\u0020"
+    m_Localized: ' '
     m_Metadata:
       m_Items: []
   - m_Id: 69968883526287370
-    m_Localized: "Jami\u0020Jo\u0020Perry\uff08MediBang\u0020Inc.\uff09"
+    m_Localized: "Jami Jo Perry\uFF08MediBang Inc.\uFF09"
     m_Metadata:
       m_Items: []
   - m_Id: 69968883526287371
-    m_Localized: "Simplified\u0020Chinese\u0020Localization"
+    m_Localized: Simplified Chinese Localization
     m_Metadata:
       m_Items: []
   - m_Id: 69968883526287372
-    m_Localized: "Wen\u0020Jing\uff08MediBang\u0020Inc.\uff09"
+    m_Localized: "Wen Jing\uFF08MediBang Inc.\uFF09"
     m_Metadata:
       m_Items: []
   - m_Id: 70020302061060096
-    m_Localized: "Sound\u0020Director"
+    m_Localized: Sound Director
     m_Metadata:
       m_Items: []
   - m_Id: 70020302086225920
-    m_Localized: "Yuichi\u0020Morita\uff08SSSStudio\uff09"
+    m_Localized: "Yuichi Morita\uFF08SSSStudio\uFF09"
     m_Metadata:
       m_Items: []
   - m_Id: 70336263267958784
-    m_Localized: "Sound\u0020Production"
+    m_Localized: Sound Production
     m_Metadata:
       m_Items: []
   - m_Id: 70336263293124608
-    m_Localized: "MAGIC\u0020CAPSULE\uff08SSSStudio\uff09"
+    m_Localized: "MAGIC CAPSULE\uFF08SSSStudio\uFF09"
     m_Metadata:
       m_Items: []
   - m_Id: 70336263293124609
-    m_Localized: "Sound\u0020Production\u0020Manager"
+    m_Localized: Sound Production Manager
     m_Metadata:
       m_Items: []
   - m_Id: 70336263293124610
-    m_Localized: "Keisuke\u0020Naruse\uff08SSSStudio\uff09"
+    m_Localized: "Keisuke Naruse\uFF08SSSStudio\uFF09"
     m_Metadata:
       m_Items: []
   - m_Id: 68497109747908608
-    m_Localized: "Style\u0020Select"
+    m_Localized: Style Select
     m_Metadata:
       m_Items: []
   - m_Id: 73581597793271808
-    m_Localized: "Rotate"
+    m_Localized: Rotate
     m_Metadata:
       m_Items: []
   references:

@@ -22,7 +22,16 @@ MonoBehaviour:
     m_ReadOnly: 1
     m_SerializedLabels: []
   - m_GUID: b45f37769576de8449bfff0fabd802ac
-    m_Address: tings/Tables/UI_TextTable/UI_TextTable Shared Data.assetI_TextTable/UI_TextTable
+    m_Address: Assets/Application/System/Localization/Settings/Tables/UI_TextTable/UI_TextTable
+      Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  - m_GUID: f1336ba341186e14d9637ce6c1f3b000
+    m_Address: Assets/UI_FontTable Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  - m_GUID: 891af7764ec45b741a1706919f252456
+    m_Address: Assets/Application/System/Localization/Settings/Tables/Story_TextTable/Story_TextTable
       Shared Data.asset
     m_ReadOnly: 1
     m_SerializedLabels: []
