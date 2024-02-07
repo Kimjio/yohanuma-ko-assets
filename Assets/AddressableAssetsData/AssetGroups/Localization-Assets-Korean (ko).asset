@@ -32,6 +32,106 @@ MonoBehaviour:
     m_ReadOnly: 1
     m_SerializedLabels:
     - Locale-ko
+  - m_GUID: f187d472e24fd734ba3197229d89b0ac
+    m_Address: SkipStd-B-Sogang SDF_dropshadow_white
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ko
+  - m_GUID: 8f42a207e18d2714ea357d949dc58cae
+    m_Address: SkipStd-B-Sogang SDF_dropshadow
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ko
+  - m_GUID: d94cf70d42cc5f64f914e9df10c243ee
+    m_Address: SkipStd-B-Sogang SDF_Highlight
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ko
+  - m_GUID: c5ab889f297e33a4382f0ece4ea81063
+    m_Address: SkipStd-B-Sogang SDF_Outline_Green
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ko
+  - m_GUID: 1e9c560a2e4de1f4ab13b4d99c0f670e
+    m_Address: SkipStd-B-Sogang SDF_Outline_White
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ko
+  - m_GUID: 3f0f80b5bb458c8408060531d5a42548
+    m_Address: SkipStd-B-Sogang SDF_Outline_LightBlue
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ko
+  - m_GUID: 70d33db05c103424fa31d4fad5485984
+    m_Address: SkipStd-B-Sogang SDF_Outline
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ko
+  - m_GUID: 5836daf23f0ddff4eb7d7bb98bdf1c02
+    m_Address: SkipStd-B-Sogang SDF_StatusNumber
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ko
+  - m_GUID: fdba9f3b7494733459399f2232c10f92
+    m_Address: SkipStd-B-Sogang SDF_TitleButton
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ko
+  - m_GUID: 8502c73b4f3216b47a5364aa75e3bb36
+    m_Address: SkipStd-B-Sogang SDF_Unit
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ko
+  - m_GUID: 90f012c9d37bffc4f9364270a1c539c5
+    m_Address: SkipStd-B-Sogang SDF_Win
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ko
+  - m_GUID: 85480e2e1ab93ce4c9bdd0920e0269dc
+    m_Address: SkipStd-B-Sogang SDF_Ability
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ko
+  - m_GUID: 17b57f7653d15c74d856d014af6306f5
+    m_Address: SkipStd-B-Sogang SDF_BossName
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ko
+  - m_GUID: 1a97be0011a2d0f46b7df79bd20757c8
+    m_Address: SkipStd-B-Sogang SDF_Cardname
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ko
+  - m_GUID: efc00b70b1767744294df4ca59be6f27
+    m_Address: SkipStd-B-Sogang SDF_CommissionDetail
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ko
+  - m_GUID: 9092e8edcd873fe4db6d7a6e6f5eea62
+    m_Address: SkipStd-B-Sogang SDF_Cost
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ko
+  - m_GUID: 1dabea4b5e744df4889c0293685c925f
+    m_Address: SkipStd-B-Sogang SDF_Cutin
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ko
+  - m_GUID: 6655d351b56525349abc99ee6797996b
+    m_Address: SkipStd-B-Sogang SDF_Cutin2
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ko
+  - m_GUID: e793e0f8ccb21ed4db9d6f7bf417dd53
+    m_Address: SkipStd-B-Sogang SDF_GameOver
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ko
+  - m_GUID: bedcdb829855c504188dbea6fc7c6766
+    m_Address: SkipStd-B-Sogang SDF_MapTitle
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ko
   m_ReadOnly: 1
   m_Settings: {fileID: 11400000, guid: 90cce4e73c3e948ee81aacf4a85f01aa, type: 2}
   m_SchemaSet:
