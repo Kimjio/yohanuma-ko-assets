@@ -764,7 +764,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 68509441832140800
-    m_Key:  
+    m_Key: 
     m_Metadata:
       m_Items: []
   - m_Id: 60935130879508664
@@ -1823,7 +1823,7 @@ MonoBehaviour:
     m_Key: UI_COMMON_BUTTON_CANCEL
     m_Metadata:
       m_Items: []
-  - m_Id: 73581597793271808
+  - m_Id: 73585856622444544
     m_Key: UI_COMMON_BUTTON_ROTATE
     m_Metadata:
       m_Items: []
